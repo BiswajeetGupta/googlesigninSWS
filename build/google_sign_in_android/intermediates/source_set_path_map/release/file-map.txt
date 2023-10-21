@@ -1,0 +1,15 @@
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-1.0.0-beta04-0 /home/bishwajeetkumar/.gradle/caches/transforms-3/003a22a5515e1f77f89701a46efbc2ec/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-basement-18.2.0-1 /home/bishwajeetkumar/.gradle/caches/transforms-3/2c79f1bef2248086e00abbcc39fc0574/transformed/jetified-play-services-basement-18.2.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-java-1.0.0-beta04-2 /home/bishwajeetkumar/.gradle/caches/transforms-3/3c0e35d493ccd3f2bb8b07f96b013b9c/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-auth-20.7.0-3 /home/bishwajeetkumar/.gradle/caches/transforms-3/706825b76a3839688cde8989ecd39986/transformed/jetified-play-services-auth-20.7.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-experimental-1.1.0-4 /home/bishwajeetkumar/.gradle/caches/transforms-3/717758e51a3aff0b90b2556f8994e808/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-core-1.6.0-5 /home/bishwajeetkumar/.gradle/caches/transforms-3/cf72013d765e0f69e97cd3b9cbb09800/transformed/core-1.6.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-6 /home/bishwajeetkumar/.gradle/caches/transforms-3/f253648b0be692c533908993735bbd2e/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.googlesignin.google_sign_in_android-main-7 /home/bishwajeetkumar/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.20/android/src/main/res
+io.flutter.plugins.googlesignin.google_sign_in_android-release-8 /home/bishwajeetkumar/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.20/android/src/release/res
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-9 /home/bishwajeetkumar/Desktop/googlesignin/build/google_sign_in_android/generated/res/pngs/release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-10 /home/bishwajeetkumar/Desktop/googlesignin/build/google_sign_in_android/generated/res/resValues/release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-11 /home/bishwajeetkumar/Desktop/googlesignin/build/google_sign_in_android/generated/res/rs/release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-12 /home/bishwajeetkumar/Desktop/googlesignin/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-13 /home/bishwajeetkumar/Desktop/googlesignin/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-14 /home/bishwajeetkumar/Desktop/googlesignin/build/google_sign_in_android/intermediates/merged_res/release
